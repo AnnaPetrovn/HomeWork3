@@ -14,6 +14,10 @@ if(nu[0] == nu[4] && nu[1] == nu[3])
         {
         Console.WriteLine($"число {number} является палиндромом");
         }
+        else
+        {
+            Console.WriteLine("Данное число не является пятизначным числом");
+        }
     }
 else
 {
