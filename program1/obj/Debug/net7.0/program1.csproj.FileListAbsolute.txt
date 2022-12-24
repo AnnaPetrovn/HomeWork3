@@ -1,0 +1,15 @@
+C:\kruglov\HomeWork3\program1\bin\Debug\net7.0\program1.exe
+C:\kruglov\HomeWork3\program1\bin\Debug\net7.0\program1.deps.json
+C:\kruglov\HomeWork3\program1\bin\Debug\net7.0\program1.runtimeconfig.json
+C:\kruglov\HomeWork3\program1\bin\Debug\net7.0\program1.dll
+C:\kruglov\HomeWork3\program1\bin\Debug\net7.0\program1.pdb
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.csproj.AssemblyReference.cache
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.AssemblyInfoInputs.cache
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.AssemblyInfo.cs
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.csproj.CoreCompileInputs.cache
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.dll
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\refint\program1.dll
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.pdb
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\program1.genruntimeconfig.cache
+C:\kruglov\HomeWork3\program1\obj\Debug\net7.0\ref\program1.dll
